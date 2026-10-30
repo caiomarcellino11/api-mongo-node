@@ -330,7 +330,7 @@ Se `deletedCount` vier `0`, nenhum produto com aquele ID existia.
 
 Depois de cadastrar os produtos pela API, os documentos aparecem no **Data Explorer** do MongoDB Atlas, dentro do banco `loja`, na coleção `produtos`:
 
-![Coleção produtos no MongoDB Atlas](./prints/mongodb-atlas-produtos.png)
+![Coleção produtos no MongoDB Atlas](image/Captura%20de%20tela%202026-10-30%20104035.png)
 
 O que dá pra ver nesse print:
 
